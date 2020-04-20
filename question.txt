@@ -1,0 +1,11 @@
+🔒
+
+147 - 1 digit is right but in the wrong place
+189 - 1 digit is right and in its place
+964 - 2 digits are correct but both are in the wrong place
+523 - All digits are wrong
+286 - 1 digit is right but in the wrong place
+
+What are the three numbers?
+
+https://github.com/okibeogezi/padlock-puzzle
