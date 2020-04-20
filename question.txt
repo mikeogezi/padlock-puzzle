@@ -7,5 +7,3 @@
 286 - 1 digit is right but in the wrong place
 
 What are the three numbers?
-
-https://github.com/okibeogezi/padlock-puzzle
