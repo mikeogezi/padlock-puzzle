@@ -90,7 +90,7 @@ def main ():
   # find what is completely wrong in `two_right_but_both_in_wrong_pos`
   # it won't be in any of our currently trimmed choices
   for idx, i in enumerate(two_right_but_both_in_wrong_pos):
-    # after isolating `removed_idx` we can be sure that the other two vals are correct but definitely in wrong positions
+    # after isolating our wrong idx we can be sure that the other two vals are correct but definitely in wrong positions
     if i not in flatten_and_dedup(trimmed_search_space):
       wrong_idxs.append(idx)
     else:
